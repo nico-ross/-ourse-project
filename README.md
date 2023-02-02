@@ -1,6 +1,6 @@
 # Nicolas
 
-![](/Users/nico/Documents/Remote/Сourse-project/img/nicolas.jpg)
+![](img/nicolas.jpg)
 
 
 I am an American actor and film producer. Born into the Coppola family, I am the recipient of various accolades, including an Academy Award, a Screen Actors Guild Award, and a Golden Globe Award.
